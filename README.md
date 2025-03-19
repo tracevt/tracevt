@@ -6,7 +6,7 @@ Author of [devcafe.mx](https://devcafe.mx)
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,obsidian,javascript,typescript,ruby,rust,nodejs,go,python,vue,nuxtjs,tailwind,rails,graphql,postgresql,redis,ansible,docker,cloudflare,aws,gcp,vite,rollup,apple,grafana,lua,prometheus" />
+    <img src="https://skillicons.dev/icons?i=neovim,obsidian,javascript,typescript,ruby,go,nodejs,python,vue,nuxtjs,tailwind,rails,graphql,postgresql,redis,ansible,docker,cloudflare,aws,gcp,vite,rollup,apple,grafana,lua,prometheus" />
   </a>
 </p>
 
